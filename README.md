@@ -1,5 +1,10 @@
 # Yardstick-assignment using Groq API  
 
+# Conversation Management & Classification using Groq API
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rkr6vEWrR-1yfwAXabNDSMnNzpTAlsH9)
+
+
 This project implements **two core tasks** using the **Groq API (OpenAI-compatible SDK)**.  
 It demonstrates managing conversation history with summarization and extracting structured information using a JSON schema.
 
